@@ -1,0 +1,3 @@
+This is a new file
+
+I'll call this file as LICENSE.md
