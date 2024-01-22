@@ -6,4 +6,4 @@ Hey I am back again just updating this file to see some git commands in flow. Th
 
 I am shy:)
 
-Also... Nope I am still shy:)
+Yep I am shy.
